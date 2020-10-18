@@ -17,4 +17,4 @@ def catch_all(path):
     return r.text
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+    app.run(host='localhost')
